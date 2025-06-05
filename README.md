@@ -1,13 +1,14 @@
 # RESUME BUILDER
 
+![Project flow chart](screenshots/resume-builder-ui.png)
+
 ## About
-Hello everyone! this is my **first web development** project. I am excited to share it with you. I develop this project during my **third semester** as **individual**. The purpose of this project is to demostrate my knowledge in technologies such as **HTML**, **CSS**, **JavaScript**, and **Bootstrap**. It has been a great learning experience and I am eager to continue learning and improving my skills.
-Below are features of this project:
-
+Welcome to the **Resume Builder**, my very first individual web development project, developed during my **third semester**! This project demonstrates my foundational knowledge in core front-end technologies and serves as a practical application of the skills I've acquired.
+This application is built using **HTML, CSS, JavaScript,** and **Bootstrap,** providing a responsive and user-friendly experience. It has been a significant learning journey, and I'm eager to continue improving and expanding my web development expertise.
 ## Features
-1. **Home page**: This is the main page of the resume builder. It has a heading which **justify** the purpose of the project. It also has a **button** that links to the next page. I show an image that gives idea of **what exactly output will be**. At last i show some strong reasons to use this project.
+1. **Home page**:  The welcoming entry point of the application. It clearly states the project's purpose, includes a call-to-action button to proceed to the resume creation, and showcases an illustrative image of the final resume output. It also highlights compelling reasons to utilize the builder.
 
-2. **Resume page**: This page consist of different sections like **About**, **Education**, **Skills**, **Experience**, and **Projects**. Each section has a **form** where user can input their details. I use **Bootstrap** to make it responsive and user friendly.
+2. **Resume Creation Page**: This is where users input their details across various sections: About, Education, Skills, Experience, and Projects. Each section is structured with user-friendly forms, leveraging Bootstrap for a responsive design.
 
 3. **validations**: I use **JavaScript** to validate the input fields. It checks if the fields are empty or not also uses **Regular Expressions** to match patterns.
 
